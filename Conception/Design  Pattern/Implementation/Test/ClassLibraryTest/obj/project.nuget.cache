@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w8AOtqnnvCBDfXaaEMHmb3hm3vz5fJ6qMpJ24QDXr7zyXCG0RmBYCjCZj7WT+pON5YDX6eWPTG4EykruerXMqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zeles\\OneDrive\\Documents\\GitHub\\CDA1909\\Conception\\Design  Pattern\\Implementation\\Test\\ClassLibraryTest\\ClassLibraryTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zeles\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\zeles\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
