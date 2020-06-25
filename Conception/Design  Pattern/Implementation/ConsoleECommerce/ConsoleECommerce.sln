@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleECommerce", "ConsoleECommerce\ConsoleECommerce.csproj", "{7FD866AC-BBDD-483A-9C5D-DD5E9147443F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryECommerce", "ClassLibraryECommerce\ClassLibraryECommerce.csproj", "{B19C6646-675A-4223-84E0-0C4F2F9F1B1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FD866AC-BBDD-483A-9C5D-DD5E9147443F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD866AC-BBDD-483A-9C5D-DD5E9147443F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD866AC-BBDD-483A-9C5D-DD5E9147443F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD866AC-BBDD-483A-9C5D-DD5E9147443F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B19C6646-675A-4223-84E0-0C4F2F9F1B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B19C6646-675A-4223-84E0-0C4F2F9F1B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B19C6646-675A-4223-84E0-0C4F2F9F1B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B19C6646-675A-4223-84E0-0C4F2F9F1B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FC35CDD-3008-4128-AAC0-610E3B9D6137}
+	EndGlobalSection
+EndGlobal

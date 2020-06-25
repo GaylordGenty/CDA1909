@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleAppObserver/1.0.0": {
+        "dependencies": {
+          "ClassLibraryObserver": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppObserver.dll": {}
+        }
+      },
+      "ClassLibraryObserver/1.0.0": {
+        "runtime": {
+          "ClassLibraryObserver.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppObserver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryObserver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

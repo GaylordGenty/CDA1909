@@ -1,0 +1,16 @@
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ConsoleAppObserver\bin\Debug\netcoreapp3.1\ConsoleAppObserver.exe
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ConsoleAppObserver\bin\Debug\netcoreapp3.1\ConsoleAppObserver.deps.json
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ConsoleAppObserver\bin\Debug\netcoreapp3.1\ConsoleAppObserver.runtimeconfig.json
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ConsoleAppObserver\bin\Debug\netcoreapp3.1\ConsoleAppObserver.runtimeconfig.dev.json
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ConsoleAppObserver\bin\Debug\netcoreapp3.1\ConsoleAppObserver.dll
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ConsoleAppObserver\bin\Debug\netcoreapp3.1\ConsoleAppObserver.pdb
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ConsoleAppObserver\bin\Debug\netcoreapp3.1\ClassLibraryObserver.dll
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ConsoleAppObserver\bin\Debug\netcoreapp3.1\ClassLibraryObserver.pdb
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ConsoleAppObserver\obj\Debug\netcoreapp3.1\ConsoleAppObserver.csprojAssemblyReference.cache
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ConsoleAppObserver\obj\Debug\netcoreapp3.1\ConsoleAppObserver.AssemblyInfoInputs.cache
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ConsoleAppObserver\obj\Debug\netcoreapp3.1\ConsoleAppObserver.AssemblyInfo.cs
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ConsoleAppObserver\obj\Debug\netcoreapp3.1\ConsoleAppObserver.csproj.CoreCompileInputs.cache
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ConsoleAppObserver\obj\Debug\netcoreapp3.1\ConsoleAppObserver.csproj.CopyComplete
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ConsoleAppObserver\obj\Debug\netcoreapp3.1\ConsoleAppObserver.dll
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ConsoleAppObserver\obj\Debug\netcoreapp3.1\ConsoleAppObserver.pdb
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ConsoleAppObserver\obj\Debug\netcoreapp3.1\ConsoleAppObserver.genruntimeconfig.cache

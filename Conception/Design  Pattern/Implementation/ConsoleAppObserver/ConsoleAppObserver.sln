@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppObserver", "ConsoleAppObserver\ConsoleAppObserver.csproj", "{F559F9A3-1EC3-4422-9076-3B0E99A0745E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryObserver", "ClassLibraryObserver\ClassLibraryObserver.csproj", "{45681463-FA5C-41D9-AA9F-D713A2312242}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F559F9A3-1EC3-4422-9076-3B0E99A0745E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F559F9A3-1EC3-4422-9076-3B0E99A0745E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F559F9A3-1EC3-4422-9076-3B0E99A0745E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F559F9A3-1EC3-4422-9076-3B0E99A0745E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45681463-FA5C-41D9-AA9F-D713A2312242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45681463-FA5C-41D9-AA9F-D713A2312242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45681463-FA5C-41D9-AA9F-D713A2312242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45681463-FA5C-41D9-AA9F-D713A2312242}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64CFD4BB-2220-4667-8A70-137D2F23D38C}
+	EndGlobalSection
+EndGlobal

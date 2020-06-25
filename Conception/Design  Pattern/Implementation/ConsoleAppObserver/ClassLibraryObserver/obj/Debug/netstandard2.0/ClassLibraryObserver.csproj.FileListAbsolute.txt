@@ -1,0 +1,9 @@
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ClassLibraryObserver\bin\Debug\netstandard2.0\ClassLibraryObserver.deps.json
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ClassLibraryObserver\bin\Debug\netstandard2.0\ClassLibraryObserver.dll
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ClassLibraryObserver\bin\Debug\netstandard2.0\ClassLibraryObserver.pdb
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ClassLibraryObserver\obj\Debug\netstandard2.0\ClassLibraryObserver.csprojAssemblyReference.cache
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ClassLibraryObserver\obj\Debug\netstandard2.0\ClassLibraryObserver.AssemblyInfoInputs.cache
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ClassLibraryObserver\obj\Debug\netstandard2.0\ClassLibraryObserver.AssemblyInfo.cs
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ClassLibraryObserver\obj\Debug\netstandard2.0\ClassLibraryObserver.csproj.CoreCompileInputs.cache
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ClassLibraryObserver\obj\Debug\netstandard2.0\ClassLibraryObserver.dll
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\ConsoleAppObserver\ClassLibraryObserver\obj\Debug\netstandard2.0\ClassLibraryObserver.pdb
