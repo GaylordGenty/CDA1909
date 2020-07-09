@@ -1,0 +1,10 @@
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\WF_ModificationVolume\WF_ModificationVolume\bin\Debug\WF_ModificationVolume.exe.config
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\WF_ModificationVolume\WF_ModificationVolume\bin\Debug\WF_ModificationVolume.exe
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\WF_ModificationVolume\WF_ModificationVolume\bin\Debug\WF_ModificationVolume.pdb
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\WF_ModificationVolume\WF_ModificationVolume\obj\Debug\WF_ModificationVolume.csprojAssemblyReference.cache
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\WF_ModificationVolume\WF_ModificationVolume\obj\Debug\WF_ModificationVolume.FormPrincipaleVolume.resources
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\WF_ModificationVolume\WF_ModificationVolume\obj\Debug\WF_ModificationVolume.Properties.Resources.resources
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\WF_ModificationVolume\WF_ModificationVolume\obj\Debug\WF_ModificationVolume.csproj.GenerateResource.cache
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\WF_ModificationVolume\WF_ModificationVolume\obj\Debug\WF_ModificationVolume.csproj.CoreCompileInputs.cache
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\WF_ModificationVolume\WF_ModificationVolume\obj\Debug\WF_ModificationVolume.exe
+C:\Users\zeles\OneDrive\Documents\GitHub\CDA1909\Conception\Design  Pattern\Implementation\WF_ModificationVolume\WF_ModificationVolume\obj\Debug\WF_ModificationVolume.pdb
